@@ -19,7 +19,15 @@ public class Day1 {
 		
 	public void empAddress(){
 		System.out.println("Madurai");}
+	
+ private void gittest() {
+	System.out.println("This is for github  Practice");
+}
 
+ 
+ 
+ 
+ 
 	public static void main(String[] args) {
 		Day1 D1= new Day1();
 		D1.empId();
